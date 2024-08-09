@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+# hi 
+## hi
+>>> hi
+>>>
+hi ~bye~
++ hi
++ hello
 <!--
 **C-hyunjin/C-hyunjin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
